@@ -11,7 +11,6 @@ function App() {
     <div >
       <h1>Find Happiness With John Justice</h1>
       <NavBar color="black" title="Giphy Search" />
-      <p>Follow me on insta <a href="https://instagram.com/khalil_.sa?igshid=YmMyMTA2M2Y=" alt="my account">@Khalil_.sa</a></p>
       <GifListContainer/>
     </div>
   );
