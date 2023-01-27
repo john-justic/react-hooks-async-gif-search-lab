@@ -9,7 +9,7 @@ import GifListContainer from './GifListContainer'
 function App() {
   return (
     <div >
-      <h1>Find Happiness With John Jusice</h1>
+      <h1>Find Happiness With John Justice</h1>
       <NavBar color="black" title="Giphy Search" />
       <p>Follow me on insta <a href="https://instagram.com/khalil_.sa?igshid=YmMyMTA2M2Y=" alt="my account">@Khalil_.sa</a></p>
       <GifListContainer/>
